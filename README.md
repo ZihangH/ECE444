@@ -1,2 +1,1 @@
-# ECE444
-For software engineering labs
+Name: Zihang Huang
